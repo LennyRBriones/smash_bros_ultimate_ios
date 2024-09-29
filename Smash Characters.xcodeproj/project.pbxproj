@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		8C3D6BA02CA9B9DF009BFDCD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8C3D6B872CA9B9DE009BFDCD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8C3D6B8E2CA9B9DE009BFDCD;
+			remoteInfo = "Smash Characters";
+		};
+		8C3D6BAA2CA9B9DF009BFDCD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8C3D6B872CA9B9DE009BFDCD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8C3D6B8E2CA9B9DE009BFDCD;
+			remoteInfo = "Smash Characters";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		8C3D6B8F2CA9B9DE009BFDCD /* Smash Characters.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Smash Characters.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8C3D6B9F2CA9B9DF009BFDCD /* Smash CharactersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Smash CharactersTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8C3D6BA92CA9B9DF009BFDCD /* Smash CharactersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Smash CharactersUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		8C3D6B912CA9B9DE009BFDCD /* Smash Characters */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Smash Characters";
+			sourceTree = "<group>";
+		};
+		8C3D6BA22CA9B9DF009BFDCD /* Smash CharactersTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Smash CharactersTests";
+			sourceTree = "<group>";
+		};
+		8C3D6BAC2CA9B9DF009BFDCD /* Smash CharactersUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Smash CharactersUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8C3D6B8C2CA9B9DE009BFDCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8C3D6B9C2CA9B9DF009BFDCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8C3D6BA62CA9B9DF009BFDCD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8C3D6B862CA9B9DE009BFDCD = {
+			isa = PBXGroup;
+			children = (
+				8C3D6B912CA9B9DE009BFDCD /* Smash Characters */,
+				8C3D6BA22CA9B9DF009BFDCD /* Smash CharactersTests */,
+				8C3D6BAC2CA9B9DF009BFDCD /* Smash CharactersUITests */,
+				8C3D6B902CA9B9DE009BFDCD /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8C3D6B902CA9B9DE009BFDCD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8C3D6B8F2CA9B9DE009BFDCD /* Smash Characters.app */,
+				8C3D6B9F2CA9B9DF009BFDCD /* Smash CharactersTests.xctest */,
+				8C3D6BA92CA9B9DF009BFDCD /* Smash CharactersUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8C3D6B8E2CA9B9DE009BFDCD /* Smash Characters */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8C3D6BB32CA9B9DF009BFDCD /* Build configuration list for PBXNativeTarget "Smash Characters" */;
+			buildPhases = (
+				8C3D6B8B2CA9B9DE009BFDCD /* Sources */,
+				8C3D6B8C2CA9B9DE009BFDCD /* Frameworks */,
+				8C3D6B8D2CA9B9DE009BFDCD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				8C3D6B912CA9B9DE009BFDCD /* Smash Characters */,
+			);
+			name = "Smash Characters";
+			packageProductDependencies = (
+			);
+			productName = "Smash Characters";
+			productReference = 8C3D6B8F2CA9B9DE009BFDCD /* Smash Characters.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8C3D6B9E2CA9B9DF009BFDCD /* Smash CharactersTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8C3D6BB62CA9B9DF009BFDCD /* Build configuration list for PBXNativeTarget "Smash CharactersTests" */;
+			buildPhases = (
+				8C3D6B9B2CA9B9DF009BFDCD /* Sources */,
+				8C3D6B9C2CA9B9DF009BFDCD /* Frameworks */,
+				8C3D6B9D2CA9B9DF009BFDCD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8C3D6BA12CA9B9DF009BFDCD /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				8C3D6BA22CA9B9DF009BFDCD /* Smash CharactersTests */,
+			);
+			name = "Smash CharactersTests";
+			packageProductDependencies = (
+			);
+			productName = "Smash CharactersTests";
+			productReference = 8C3D6B9F2CA9B9DF009BFDCD /* Smash CharactersTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		8C3D6BA82CA9B9DF009BFDCD /* Smash CharactersUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8C3D6BB92CA9B9DF009BFDCD /* Build configuration list for PBXNativeTarget "Smash CharactersUITests" */;
+			buildPhases = (
+				8C3D6BA52CA9B9DF009BFDCD /* Sources */,
+				8C3D6BA62CA9B9DF009BFDCD /* Frameworks */,
+				8C3D6BA72CA9B9DF009BFDCD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8C3D6BAB2CA9B9DF009BFDCD /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				8C3D6BAC2CA9B9DF009BFDCD /* Smash CharactersUITests */,
+			);
+			name = "Smash CharactersUITests";
+			packageProductDependencies = (
+			);
+			productName = "Smash CharactersUITests";
+			productReference = 8C3D6BA92CA9B9DF009BFDCD /* Smash CharactersUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8C3D6B872CA9B9DE009BFDCD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					8C3D6B8E2CA9B9DE009BFDCD = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					8C3D6B9E2CA9B9DF009BFDCD = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 8C3D6B8E2CA9B9DE009BFDCD;
+					};
+					8C3D6BA82CA9B9DF009BFDCD = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 8C3D6B8E2CA9B9DE009BFDCD;
+					};
+				};
+			};
+			buildConfigurationList = 8C3D6B8A2CA9B9DE009BFDCD /* Build configuration list for PBXProject "Smash Characters" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8C3D6B862CA9B9DE009BFDCD;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 8C3D6B902CA9B9DE009BFDCD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8C3D6B8E2CA9B9DE009BFDCD /* Smash Characters */,
+				8C3D6B9E2CA9B9DF009BFDCD /* Smash CharactersTests */,
+				8C3D6BA82CA9B9DF009BFDCD /* Smash CharactersUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8C3D6B8D2CA9B9DE009BFDCD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8C3D6B9D2CA9B9DF009BFDCD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8C3D6BA72CA9B9DF009BFDCD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8C3D6B8B2CA9B9DE009BFDCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8C3D6B9B2CA9B9DF009BFDCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8C3D6BA52CA9B9DF009BFDCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8C3D6BA12CA9B9DF009BFDCD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8C3D6B8E2CA9B9DE009BFDCD /* Smash Characters */;
+			targetProxy = 8C3D6BA02CA9B9DF009BFDCD /* PBXContainerItemProxy */;
+		};
+		8C3D6BAB2CA9B9DF009BFDCD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8C3D6B8E2CA9B9DE009BFDCD /* Smash Characters */;
+			targetProxy = 8C3D6BAA2CA9B9DF009BFDCD /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		8C3D6BB12CA9B9DF009BFDCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8C3D6BB22CA9B9DF009BFDCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8C3D6BB42CA9B9DF009BFDCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Smash Characters/Preview Content\"";
+				DEVELOPMENT_TEAM = NG576KRNLC;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lennrbriones.smashcharacters.Smash-Characters";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8C3D6BB52CA9B9DF009BFDCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Smash Characters/Preview Content\"";
+				DEVELOPMENT_TEAM = NG576KRNLC;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lennrbriones.smashcharacters.Smash-Characters";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		8C3D6BB72CA9B9DF009BFDCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NG576KRNLC;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lennrbriones.smashcharacters.Smash-CharactersTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Smash Characters.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Smash Characters";
+			};
+			name = Debug;
+		};
+		8C3D6BB82CA9B9DF009BFDCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NG576KRNLC;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lennrbriones.smashcharacters.Smash-CharactersTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Smash Characters.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Smash Characters";
+			};
+			name = Release;
+		};
+		8C3D6BBA2CA9B9DF009BFDCD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NG576KRNLC;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lennrbriones.smashcharacters.Smash-CharactersUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Smash Characters";
+			};
+			name = Debug;
+		};
+		8C3D6BBB2CA9B9DF009BFDCD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NG576KRNLC;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lennrbriones.smashcharacters.Smash-CharactersUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Smash Characters";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8C3D6B8A2CA9B9DE009BFDCD /* Build configuration list for PBXProject "Smash Characters" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C3D6BB12CA9B9DF009BFDCD /* Debug */,
+				8C3D6BB22CA9B9DF009BFDCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8C3D6BB32CA9B9DF009BFDCD /* Build configuration list for PBXNativeTarget "Smash Characters" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C3D6BB42CA9B9DF009BFDCD /* Debug */,
+				8C3D6BB52CA9B9DF009BFDCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8C3D6BB62CA9B9DF009BFDCD /* Build configuration list for PBXNativeTarget "Smash CharactersTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C3D6BB72CA9B9DF009BFDCD /* Debug */,
+				8C3D6BB82CA9B9DF009BFDCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8C3D6BB92CA9B9DF009BFDCD /* Build configuration list for PBXNativeTarget "Smash CharactersUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C3D6BBA2CA9B9DF009BFDCD /* Debug */,
+				8C3D6BBB2CA9B9DF009BFDCD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8C3D6B872CA9B9DE009BFDCD /* Project object */;
+}
