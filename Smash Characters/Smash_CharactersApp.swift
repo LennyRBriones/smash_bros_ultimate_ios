@@ -12,6 +12,8 @@ struct Smash_CharactersApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(CharactersViewModel())
+
         }
     }
 }
